@@ -61,7 +61,7 @@ const list = () => {
 const getAllData = () => {
     const DataObj = loadData();
     DataObj.map((item) => {
-        console.log(item.fname, item.lname, item.colorFav, item.country, item.age, item.id);
+        console.log(item.id, item.fname, item.lname, item.country, item.age, item.colorFav);
     });
 };
 
