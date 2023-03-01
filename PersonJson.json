@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "fname": "hadeel",
+    "lname": "ayman",
+    "country": "Palestine",
+    "age": 21,
+    "colorFav": "Pink"
+  },
+  {
+    "id": 2,
+    "fname": "Raghda",
+    "lname": "ayman",
+    "country": "Palestine",
+    "age": 23,
+    "colorFav": "black"
+  },
+  {
+    "id": 4,
+    "fname": "mohamed",
+    "lname": "mazen",
+    "country": "egypt",
+    "age": 40,
+    "colorFav": "green"
+  },
+  {
+    "id": 5,
+    "fname": "mona",
+    "lname": "ali",
+    "country": "syria",
+    "age": 30,
+    "colorFav": "white"
+  },
+  {
+    "id": 8,
+    "fname": "zahra",
+    "lname": "mahmoud",
+    "country": "Iraq",
+    "age": 36,
+    "colorFav": "brown"
+  },
+  {
+    "id": 9,
+    "fname": "Khalil",
+    "lname": "Jehad",
+    "country": "sudia",
+    "age": 25,
+    "colorFav": "oliveine"
+  },
+  {
+    "id": 10,
+    "fname": "rami",
+    "lname": "Ismail",
+    "country": "Kuwait",
+    "age": 33,
+    "colorFav": "charcoal"
+  },
+  {
+    "id": 11,
+    "fname": "ramz",
+    "lname": "mohamed",
+    "country": "Qatar",
+    "age": 33,
+    "colorFav": "charcoal"
+  },
+  {
+    "id": 12,
+    "fname": "Jana",
+    "lname": "mohamed",
+    "country": "Palestine",
+    "age": 26,
+    "colorFav": "Pink"
+  },
+  {
+    "id": 13,
+    "fname": "Nada",
+    "lname": "ahmed",
+    "country": "Jordan",
+    "age": 20,
+    "colorFav": "blue"
+  },
+  {
+    "id": 14,
+    "fname": "Nidaa",
+    "lname": "mohmed",
+    "country": "Egypt",
+    "age": 99,
+    "colorFav": "black"
+  },
+  {
+    "id": 16,
+    "fname": "Nesreen",
+    "lname": "mohamed",
+    "country": "Oman",
+    "age": 45,
+    "colorFav": "red"
+  },
+  {
+    "id": 17,
+    "fname": "hadeel",
+    "lname": "Ali",
+    "country": "USA",
+    "age": 80,
+    "colorFav": "gray"
+  },
+  {
+    "id": 19,
+    "fname": "Rana",
+    "lname": "Majed",
+    "country": "Palestine",
+    "age": 12,
+    "colorFav": "blue"
+  },
+  {
+    "id": 20,
+    "fname": "Rawan",
+    "lname": "Radwan",
+    "country": "Somalia",
+    "age": 42,
+    "colorFav": "white"
+  }
+]
