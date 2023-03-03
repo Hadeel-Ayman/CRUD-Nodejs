@@ -34,9 +34,14 @@ yargs.command({
             demandOption: true,
             type: "string",
         },
+        arrOfDegree: {
+            describe: "add the arr name",
+            demandOption: true,
+            type: 'array',
+        }
     },
     handler: (x) => {
-        crud.addPerson(x.id, x.fname, x.lname, x.country, x.age, x.colorFav);
+        crud.addPerson(x.id, x.fname, x.lname, x.country, x.age, x.colorFav, x.arrOfDegree);
     },
 });
 
