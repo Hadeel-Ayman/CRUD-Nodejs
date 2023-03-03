@@ -1,122 +1,137 @@
 [
   {
     "id": 1,
-    "fname": "hadeel",
-    "lname": "ayman",
-    "country": "Palestine",
-    "age": 21,
-    "colorFav": "Pink"
-  },
-  {
-    "id": 2,
-    "fname": "Raghda",
-    "lname": "ayman",
-    "country": "Palestine",
-    "age": 23,
-    "colorFav": "black"
-  },
-  {
-    "id": 4,
-    "fname": "mohamed",
-    "lname": "mazen",
-    "country": "egypt",
-    "age": 40,
-    "colorFav": "green"
-  },
-  {
-    "id": 5,
-    "fname": "mona",
-    "lname": "ali",
-    "country": "syria",
-    "age": 30,
-    "colorFav": "white"
-  },
-  {
-    "id": 8,
-    "fname": "zahra",
-    "lname": "mahmoud",
-    "country": "Iraq",
-    "age": 36,
-    "colorFav": "brown"
-  },
-  {
-    "id": 9,
-    "fname": "Khalil",
-    "lname": "Jehad",
-    "country": "sudia",
-    "age": 25,
-    "colorFav": "oliveine"
-  },
-  {
-    "id": 10,
-    "fname": "rami",
-    "lname": "Ismail",
-    "country": "Kuwait",
-    "age": 33,
-    "colorFav": "charcoal"
-  },
-  {
-    "id": 11,
-    "fname": "ramz",
-    "lname": "mohamed",
-    "country": "Qatar",
-    "age": 33,
-    "colorFav": "charcoal"
-  },
-  {
-    "id": 12,
-    "fname": "Jana",
-    "lname": "mohamed",
-    "country": "Palestine",
-    "age": 26,
-    "colorFav": "Pink"
-  },
-  {
-    "id": 13,
-    "fname": "Nada",
-    "lname": "ahmed",
-    "country": "Jordan",
-    "age": 20,
-    "colorFav": "blue"
-  },
-  {
-    "id": 14,
-    "fname": "Nidaa",
-    "lname": "mohmed",
-    "country": "Egypt",
-    "age": 99,
-    "colorFav": "black"
-  },
-  {
-    "id": 16,
-    "fname": "Nesreen",
-    "lname": "mohamed",
-    "country": "Oman",
-    "age": 45,
-    "colorFav": "red"
-  },
-  {
-    "id": 17,
-    "fname": "hadeel",
-    "lname": "Ali",
-    "country": "USA",
-    "age": 80,
-    "colorFav": "gray"
-  },
-  {
-    "id": 19,
-    "fname": "Rana",
-    "lname": "Majed",
-    "country": "Palestine",
-    "age": 12,
-    "colorFav": "blue"
-  },
-  {
-    "id": 20,
     "fname": "Rawan",
     "lname": "Radwan",
     "country": "Somalia",
     "age": 42,
-    "colorFav": "white"
+    "colorFav": "white",
+    "avgOfGrades": 97.33
+  },
+  {
+    "id": 2,
+    "fname": "Rawan",
+    "lname": "Radwan",
+    "country": "Somalia",
+    "age": 42,
+    "colorFav": "white",
+    "avgOfGrades": 81.83
+  },
+  {
+    "id": 4,
+    "fname": "Hadeel",
+    "lname": "ayman",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "white",
+    "avgOfGrades": 81.22
+  },
+  {
+    "id": 5,
+    "fname": "Hadeel",
+    "lname": "ayman",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "white",
+    "avgOfGrades": 79.55
+  },
+  {
+    "id": 7,
+    "fname": "ahmed",
+    "lname": "mohamed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "white",
+    "avgOfGrades": 73.99
+  },
+  {
+    "id": 8,
+    "fname": "mahmoud",
+    "lname": "mohamed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "white",
+    "avgOfGrades": 83.55
+  },
+  {
+    "id": 9,
+    "fname": "merna",
+    "lname": "mohamed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "white",
+    "avgOfGrades": 76.0
+  },
+  {
+    "id": 12,
+    "fname": "wael",
+    "lname": "mohamed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "red",
+    "avgOfGrades": 83.11
+  },
+  {
+    "id": 13,
+    "fname": "wael",
+    "lname": "ahmed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "red",
+    "avgOfGrades": 78.41
+  },
+  {
+    "id": 14,
+    "fname": "wael",
+    "lname": "ahmed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "red",
+    "avgOfGrades": 78.21
+  },
+  {
+    "id": 16,
+    "fname": "wael",
+    "lname": "mohamed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "red",
+    "avgOfGrades": 75.41
+  },
+  {
+    "id": 17,
+    "fname": "wael",
+    "lname": "mohamed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "red",
+    "avgOfGrades": 71.41
+  },
+  {
+    "id": 18,
+    "fname": "wael",
+    "lname": "mohamed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "red",
+    "avgOfGrades": 55.35
+  },
+  {
+    "id": 19,
+    "fname": "wael",
+    "lname": "ahmed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "red",
+    "avgOfGrades": 65.88
+  },
+  {
+    "id": 20,
+    "fname": "wael",
+    "lname": "ahmed",
+    "country": "Palestine",
+    "age": 42,
+    "colorFav": "red",
+    "avgOfGrades": 77.45
   }
 ]
